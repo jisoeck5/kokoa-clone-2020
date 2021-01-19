@@ -4,7 +4,7 @@
   align-items: center;
   padding: 20px;
   padding-top: 50px;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
 }
 
 .screen-header__title {
@@ -14,4 +14,13 @@
 
 .screen-header__icons span {
   margin-left: 25px;
+}
+
+.screen-header__icons__setting {
+  position: relative;
+}
+.screen-header__icons__setting-badge {
+  position: absolute;
+  right: -4px;
+  top: -5px;
 }

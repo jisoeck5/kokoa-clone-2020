@@ -5,6 +5,7 @@
   padding: 14px 0px;
   font-size: 16px;
   margin-bottom: 10px;
+  margin-top: -15px;
 }
 
 #friends-display-link i {
@@ -17,7 +18,7 @@
   margin: 0px var(--horizontal-space);
   margin-top: 15px;
   padding-top: 15px;
-  border-top: 1px solid var(--gray-line);
+  border-top: var(--line-gray);
 }
 
 .friends-screen__channel__header {
