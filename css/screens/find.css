@@ -13,10 +13,10 @@
 }
 .find-icons__icon i {
   font-size: 30px;
+  margin: 10px;
 }
 .find-icons__icon span {
   font-size: 15px;
-  margin-top: 10px;
 }
 
 .recommended-friends {
